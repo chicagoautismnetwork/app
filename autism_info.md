@@ -40,13 +40,9 @@ There is no single treatment for all people with ASD. Treatment is specific to s
 
 | Type of Treatment | Behavior/Symptoms Addressed|
 |---|---|
-|Speech and Language Therapy|All aspects of communication (verbal, nonverbal, written)
-- Expressive language
-- Receptive language
-- Social-Pragmatic language|
+|Speech and Language Therapy|All aspects of communication (verbal, nonverbal, written)/<ul><li>Expressive language</li><li>Receptive language</li><li>Social-Pragmatic language</li><ul>|
 |---|---|
-|Occupational Therapy|Fine motor skill
-Motor coordination
+|Occupational Therapy|Fine motor skill/Motor coordination/
 Motor planning|
 |---|---|
 |Physical Therapy|Gross motor skill
