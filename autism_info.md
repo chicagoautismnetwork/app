@@ -2,7 +2,7 @@
 
 [What is autism?](#what-is-autism)
 [What causes autism?](#what-causes-autism)
-[What are the symptoms of autism?](#what are the symptoms of autism)
+[What are the symptoms of autism?](#what-are-the-symptoms-of-autism)
 [I think my child might have autism. What should I do next?](i-think-my-child-might-have-autism-what-should-i-do-next)
 [What happens during the diagnosis? How can I best prepare?](what-happens-during-the-diagnosis-how-can-i-best-prepare)
 [What is the difference between a diagnosis from a MD vs. Clinical Psychologist?](what-is-the-difference-between-a-diagnosis-from-a-md-vs-clinical-psychologist)
@@ -40,4 +40,34 @@ There is no single treatment for all people with ASD. Treatment is specific to s
 
 | Type of Treatment | Behavior/Symptoms Addressed|
 |---|---|
-|Speech and Language Therapy|All aspects of communication (verbal, nonverbal, written)|
+|Speech and Language Therapy|All aspects of communication (verbal, nonverbal, written)
+- Expressive language
+- Receptive language
+- Social-Pragmatic language|
+|---|---|
+|Occupational Therapy|Fine motor skill
+Motor coordination
+Motor planning|
+|---|---|
+|Physical Therapy|Gross motor skill
+Motor coordination
+Motor planning|
+|---|---|
+|Applied Behavior Analysis (ABA) Therapy|Teaching of skills or content
+Correction of problem behavior|
+|---|---|
+|Pharmacotherapy (Psychiatric Medication)|There are no medicines for autism.
+Medicines treat specific symptoms that people with autism may experience:
+- Inattention, impulsivity, hyperactivity
+- Anxiety
+- Depressions
+- Irritability
+- Sleep problems|
+|---|---|
+|Cognitive Behavioral Therapy|Can be used to address symptoms, including anxiety and depression.
+
+Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
+|---|---|
+|Dialectical Behavior Therapy|Emotional Regulation
+Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
+|---|---|
