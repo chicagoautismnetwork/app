@@ -4,7 +4,7 @@
 [What causes autism?](#what-causes-autism)<br/>
 [What are the symptoms of autism?](#what-are-the-symptoms-of-autism)<br/>
 [I think my child might have autism. What should I do next?](#i-think-my-child-might-have-autism-what-should-i-do-next)<br/>
-[What happens during the diagnosis? How can I best prepare?](#what-happens-during-the-diagnosis)<br/>
+[What happens during the diagnosis? How can I best prepare?](#what-happens-during-the-diagnosis-how-can-i-best-prepare)<br/>
 [What is the difference between a diagnosis from a MD vs. Clinical Psychologist?](#what-is-the-difference-between-a-diagnosis-from-a-md-vs-clinical-psychologist)<br/>
 [How is autism treated?](#how-is-autism-treated)<br/>
 [What should I look for in an effective provider?](#what-should-i-look-for-in-an-effective-provider)<br/>
