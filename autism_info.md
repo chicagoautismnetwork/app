@@ -40,16 +40,16 @@ There is no single treatment for all people with ASD. Treatment is specific to s
 
 | Type of Treatment | Behavior/Symptoms Addressed|
 |---|---|
-|Speech and Language Therapy|All aspects of communication (verbal, nonverbal, written)<ul><li>Expressive language</li><li>Receptive language</li><li>Social-Pragmatic language</li><ul>|
-|Occupational Therapy|<ul><li>Fine motor skill</li><li>Regulation of internal state</li><ul>|
-|Physical Therapy|<ul><li>Gross motor skill</li><li>Motor coordination</li><li>Motor planning</li><ul>|
-|Applied Behavior Analysis (ABA) Therapy|<ul><li>Teaching of skills or content</li><li>Correction of problem behavior</li><ul>|
-|Pharmacotherapy (Psychiatric Medication)|There are no medicines for autism. Medicines treat specific symptoms that people with autism may experience:<ul><li>Inattention, impulsivity, hyperactivity</li><li>Anxiety</li><li>Depressions</li><li>Irritability</li><li>Sleep problems</li><ul>|
-|Cognitive Behavioral Therapy|Can be used to address symptoms, including anxiety and depression. Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
-|Dialectical Behavior Therapy|Emotional Regulation. Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
-|Other types of Psychotherapy|Individual therapies that focus on the development of specific social skills, such as social problem solving|
-|Educational or Developmental Therapies|Therapies that teach specific content or skills, such as reading comprehension, or for younger children, are focused on the child's development.|
-|Social Skills Groups|Organized and structured social opportunities, usually facilitated by a clinician such as a speech therapist, social worker or clinical psychologist.|
+|**Speech and Language Therapy**|All aspects of communication (verbal, nonverbal, written)<ul><li>Expressive language</li><li>Receptive language</li><li>Social-Pragmatic language</li><ul>|
+|**Occupational Therapy**|<ul><li>Fine motor skill</li><li>Regulation of internal state</li><ul>|
+|**Physical Therapy**|<ul><li>Gross motor skill</li><li>Motor coordination</li><li>Motor planning</li><ul>|
+|**Applied Behavior Analysis (ABA) Therapy**|<ul><li>Teaching of skills or content</li><li>Correction of problem behavior</li><ul>|
+|**Pharmacotherapy (Psychiatric Medication)**|There are no medicines for autism.<br/> Medicines treat specific symptoms that people with autism may experience:<ul><li>Inattention, impulsivity, hyperactivity</li><li>Anxiety</li><li>Depressions</li><li>Irritability</li><li>Sleep problems</li><ul>|
+|**Cognitive Behavioral Therapy**|Can be used to address symptoms, including anxiety and depression. <br/>Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
+|**Dialectical Behavior Therapy**|Emotional Regulation.<br/> Participants need to have adequate means of expressive and receptive language, as well as some insight into their own behaviors and emotions.|
+|**Other types of Psychotherapy**|Individual therapies that focus on the development of specific social skills, such as social problem solving|
+|**Educational or Developmental Therapies**|Therapies that teach specific content or skills, such as reading comprehension, or for younger children, are focused on the child's development.|
+|**Social Skills Groups**|Organized and structured social opportunities, usually facilitated by a clinician such as a speech therapist, social worker or clinical psychologist.|
 
 More information on therapy and treatment can be found [here.](https://www.autismspeaks.org/family-services/tool-kits/100-day-kit/treatments-therapies)
 
