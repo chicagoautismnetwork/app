@@ -3,13 +3,13 @@
 [What is autism?](#what-is-autism)<br/>
 [What causes autism?](#what-causes-autism)<br/>
 [What are the symptoms of autism?](#what-are-the-symptoms-of-autism)<br/>
-[i think my child might have autism. What should I do next?](i-think-my-child-might-have-autism)<br/>
-[What happens during the diagnosis? How can I best prepare?](what-happens-during-the-diagnosis)<br/>
-[What is the difference between a diagnosis from a MD vs. Clinical Psychologist?](what-is-the-difference-between-a-diagnosis-from-a-md-vs-clinical-psychologist)<br/>
-[How is autism treated?](how-is-autism-treated)<br/>
-[What should I look for in an effective provider?](what-should-i-look-for-in-an-effective-provider)<br/>
-[With so many treatment options, how do I find the best fit for my child?](with-so-many-treatment-options-how-do-i-find-the-best-fit-for-my-child)<br/>
-[What about nontraditional or experimental treatments?](what-about-nontraditional-or-experimental-treatments)
+[I think my child might have autism. What should I do next?](#i-think-my-child-might-have-autism-what-should-i-do-next)<br/>
+[What happens during the diagnosis? How can I best prepare?](#what-happens-during-the-diagnosis)<br/>
+[What is the difference between a diagnosis from a MD vs. Clinical Psychologist?](#what-is-the-difference-between-a-diagnosis-from-a-md-vs-clinical-psychologist)<br/>
+[How is autism treated?](#how-is-autism-treated)<br/>
+[What should I look for in an effective provider?](#what-should-i-look-for-in-an-effective-provider)<br/>
+[With so many treatment options, how do I find the best fit for my child?](#with-so-many-treatment-options-how-do-i-find-the-best-fit-for-my-child)<br/>
+[What about nontraditional or experimental treatments?](#what-about-nontraditional-or-experimental-treatments)
 
 ### What is autism?<br/>
 Autism is a developmental disorder that affects brain development. The primary symptoms of autism are in the areas of social-communication and atypical behaviors (restricted interests, repetitive behaviors, sensory seeking or avoiding behaviors).
@@ -51,7 +51,7 @@ There is no single treatment for all people with ASD. Treatment is specific to s
 |Educational or Developmental Therapies|Therapies that teach specific content or skills, such as reading comprehension, or for younger children, are focused on the child's development.|
 |Social Skills Groups|Organized and structured social opportunities, usually facilitated by a clinician such as a speech therapist, social worker or clinical psychologist.|
 
-More information can be found [here](https://www.autismspeaks.org/family-services/tool-kits/100-day-kit/treatments-therapies)
+More information on therapy and treatment can be found [here.](https://www.autismspeaks.org/family-services/tool-kits/100-day-kit/treatments-therapies)
 
 ### What should I look for in an effective provider?<br/>
 Like other professionals, the quality of work done by autism specialists can vary, and there may be personality factors that affect the success of a therapeutic relationship. As caregiver or a person seeking services, it is important that you feel comfortable and
