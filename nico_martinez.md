@@ -1,5 +1,7 @@
 # Spotlight on Self-Advocates: Meet Nicolas Martinez
 
+![nicopic](Screen Shot 2018-06-06 at 10.55.35 PM.png)
+
 *Nicolas Martinez is a professional animator, storyboard artist and illustrator living in Chicago. He sat down to tell us more about his life experiences as an artist with high-functioning autism.*
 
 **When did you first become aware of your autism?** <br/>
