@@ -42,6 +42,6 @@ He gives me another beauty of a smile, and helps me to mentally move along to a 
 
 ![benroyko_pic](droyko_pic1.jpg)
 
-*David Royko is a licensed clinical psychologist, director of Family Mediation Services of Chicago's Circuit Court of Cook County, and writer. His work has appeared in the Chicago Tribune, Parents Magazine, New York Times, Chicago Reader, Village Voice, Chicago Sun Times, Bluegrass Unlimited, and No Depression Magazine, among other print and web publications.He has adult twins, Jake and Ben, and lives in the Chicago area with his wife, Karen.*
+*David Royko is a licensed clinical psychologist, director of Family Mediation Services of Chicago's Circuit Court of Cook County, and writer. His work has appeared in the Chicago Tribune, Parents Magazine, New York Times, Chicago Reader, Village Voice, Chicago Sun Times, Bluegrass Unlimited, and No Depression Magazine, among other print and web publications.He has adult twins, Jake and Ben, and lives in the Chicago area with his wife, Karen. You can find more of his work at [davidroyko.com](https://www.davidroyko.com)*
 
-*This story was first published on Huffpost in 2016*
+*This story was first published on Huffpost in 2016.*
