@@ -1,6 +1,6 @@
 import sys
 import random
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, Markup
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
@@ -35,4 +35,5 @@ def donate():
     return render_template('donate.html')
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=80)
+    #app.run(host='0.0.0.0', port=80)
+    app.run(debug=True)
