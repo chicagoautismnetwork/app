@@ -1,5 +1,7 @@
 import sys
+import os
 import random
+import markdown
 from flask import Flask, render_template, jsonify, Markup
 from flask_sqlalchemy import SQLAlchemy
 
@@ -9,6 +11,14 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///resources.db'
 db = SQLAlchemy(app)
 
 BASECOORDS = [41.8781, -87.6298]
+md_dir = "Stories/"
+
+def get_file(filename):  # pragma: no cover
+    try:
+        src = os.path.join(md_dir, filename)
+        return open(src).read()
+    except IOError as exc:
+        return str(exc)
 
 @app.route('/')
 def index():
@@ -20,7 +30,9 @@ def map():
 
 @app.route('/blog')
 def blog():
-    return render_template('blog.html')
+    content = get_file('our_autism_story.md')
+    content = Markup(markdown.markdown(content))
+    return render_template('blog.html',content=content)
 
 @app.route('/grants')
 def grants():
