@@ -3,9 +3,11 @@ import os
 import random
 import markdown
 from flask import Flask, render_template, jsonify, Markup
+from flask.ext.misaka import Misaka
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
+Misaka(app,tables=True,autolink=True,wrap=True)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///resources.db'
 
 db = SQLAlchemy(app)
@@ -38,6 +40,10 @@ def blog():
 def grants():
     return render_template('grants.html')
 
+@app.route('/events')
+def events():
+    return render_template('events.html')
+
 @app.route('/about')
 def about():
     return render_template('team.html')
@@ -45,6 +51,12 @@ def about():
 @app.route('/donate')
 def donate():
     return render_template('donate.html')
+
+@app.route('/what_is_autism')
+def what_is_autism():
+    with open("Stories/autism_info.md", "r") as f:
+        content = f.read()
+    return render_template('markdown_render.html',content=content)
 
 if __name__ == "__main__":
     #app.run(host='0.0.0.0', port=80)
