@@ -1,2 +1,4 @@
 Flask
-flask_sqlalchemy
+markdown
+Flask-SQLAlchemy
+Flask-Misaka

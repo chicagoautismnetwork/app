@@ -2,25 +2,12 @@ import sys
 import os
 import random
 import markdown
-from flask import Flask, render_template, jsonify, Markup
-from flask.ext.misaka import Misaka
-from flask_sqlalchemy import SQLAlchemy
+from flask import Flask, render_template, jsonify, Markup,  send_file
+from flask_misaka import Misaka
 
 app = Flask(__name__)
 Misaka(app,tables=True,autolink=True,wrap=True)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///resources.db'
-
-db = SQLAlchemy(app)
-
-BASECOORDS = [41.8781, -87.6298]
 md_dir = "Stories/"
-
-def get_file(filename):  # pragma: no cover
-    try:
-        src = os.path.join(md_dir, filename)
-        return open(src).read()
-    except IOError as exc:
-        return str(exc)
 
 @app.route('/')
 def index():
@@ -39,6 +26,11 @@ def blog():
 @app.route('/grants')
 def grants():
     return render_template('grants.html')
+
+@app.route('/downloadapp')
+def downloadapp():
+    file_path = 'static/files/ChiAutNet Grant Application.pdf'
+    return send_file(file_path, attachment_filename='ChiAutNet Grant Application.pdf', as_attachment=True)
 
 @app.route('/events')
 def events():
@@ -59,5 +51,5 @@ def what_is_autism():
     return render_template('markdown_render.html',content=content)
 
 if __name__ == "__main__":
-    #app.run(host='0.0.0.0', port=80)
-    app.run(debug=True)
+    app.run(host='0.0.0.0',port=80)
+    #app.run(debug=True)
