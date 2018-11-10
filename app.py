@@ -40,6 +40,10 @@ def events():
 def about():
     return render_template('team.html')
 
+@app.route('/api/v1.0/resources', methods=['GET'])
+def get_tasks():
+    return jsonify({'tasks': tasks})
+
 @app.route('/donate')
 def donate():
     return render_template('donate.html')
